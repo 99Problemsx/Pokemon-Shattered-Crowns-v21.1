@@ -1,0 +1,4 @@
+Name         = Dynamic Lighting System
+Version      = 1.0
+Link         = no
+Credits      = Nononever
